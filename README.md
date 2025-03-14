@@ -1,49 +1,49 @@
 
-# Film Projesi
+# Film Project
 
-Modern ve şık bir film yönetim web uygulaması. HTML, CSS ve JavaScript ile oluşturulmuştur. Tüm cihazlarda mükemmel görüntüleme için duyarlı tasarım içerir. Film ekleme, afiş yükleme, yönetmen bilgisi ve film listeleme özellikleriyle kullanımı kolay bir arayüz sunar.
+A modern and stylish film management web application. Built with HTML, CSS and JavaScript. Features a responsive design for perfect viewing on all devices. Provides an easy-to-use interface with movie adding, poster uploading, director information and movie listing features.
 
-## Özellikler
+## Features
 
-- **Duyarlı Tasarım:** Tüm cihazlarda (mobil, tablet, masaüstü) sorunsuz görüntüleme
-- **Modern Arayüz:** Minimalist tasarım ve kullanıcı dostu navigasyon
-- **Film Ekleme:** Yeni filmleri kolayca ekleyebilme
-- **Afiş Yükleme:** Film afişlerini sisteme yükleme imkanı
-- **Yönetmen Bilgisi:** Filmlerin yönetmen bilgilerini kaydetme
-- **Film Listeleme:** Eklenen tüm filmleri görüntüleme
-- **Film Temizleme:** Tüm film listesini temizleme özelliği
+- **Responsive Design:** Displays smoothly on all devices (mobile, tablet, desktop)
+- **Modern Interface:** Minimalist design and user-friendly navigation
+- **Movie Adding:** Ability to easily add new movies
+- **Poster Uploading:** Ability to upload movie posters to the system
+- **Director Information:** Saving director information of movies
+- **Movie Listing:** Viewing all added movies
+- **Movie Cleanup:** Ability to clear the entire movie list
 
-## Sayfalar
+## Pages
 
-- **Ana Sayfa:** Film ekleme ve yönetim arayüzü
-- **Film Listesi:** Eklenen tüm filmlerin görüntülendiği alan
+- **Homepage:** Movie adding and management interface
+- **Movie List:** Area where all added movies are displayed
 
-## Teknolojiler
+## Technologies
 
 - HTML5
 - CSS3
 - JavaScript
-- Yerel Depolama (Local Storage)
+- Local Storage
 
-## Kurulum
+## Installation
 
-Projeyi yerel makinenizde çalıştırmak için:
+To run the project on your local machine:
 
 ```bash
-git clone https://github.com/[kullanıcı-adınız]/film-projesi.git
-cd film-projesi
+git clone https://github.com/[your-user-name]/movie-project.git
+cd film-project
 ```
 
-Ardından, `index.html` dosyasını tercih ettiğiniz web tarayıcısında açın.
+Then, open `index.html` in your preferred web browser.
 
-## Katkıda Bulunma
+## Contributing
 
-1. Bu depoyu forklayın
-2. Yeni bir özellik dalı oluşturun (`git checkout -b özellik/yeniÖzellik`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Yeni özellik eklendi'`)
-4. Dalı push edin (`git push origin özellik/yeniÖzellik`)
-5. Bir Pull Request açın
+1. Fork this repository
+2. Create a new feature branch (`git checkout -b feature/newFeature`)
+3. Commit your changes (`git commit -m 'New feature added'`)
+4. Push the branch (`git push origin feature/newFeature`)
+5. Open a Pull Request
 
-## Lisans
+## License
 
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
+This project is licensed under the [MIT License](LICENSE).
